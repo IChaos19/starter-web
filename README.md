@@ -10,8 +10,11 @@ of the Git repository and various commands
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to
+provide simple example
 
 ## Deployment
 
+This is a simple web project, deployment
+can be on any web srever or even local
 ## How To Contribute
