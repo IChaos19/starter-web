@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Itay Aharon		itay.aharon19@gmail.com
+	
 # THANKS
 
     <name>
